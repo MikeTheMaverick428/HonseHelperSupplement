@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "updated_at": "2026-07-22T18:50:58+00:00",
+  "files": [
+    {
+      "id": "support-events",
+      "filename": "support-events.json",
+      "zip_filename": "support-events.json.zip",
+      "sha256_zip": "60489b2054dd47c0af5d1eebded88bbcb527f5df9d8dccee9c5395c2acf93336",
+      "sha256_json": "2836738d7d4f44b92fb839f721dcf3665fd66da84f08e04ecea07009fa19ffc7",
+      "version": 1,
+      "updated_at": "2026-07-22T18:50:58+00:00"
+    }
+  ]
+}

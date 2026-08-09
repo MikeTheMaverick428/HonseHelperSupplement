@@ -1,24 +1,24 @@
 {
-  "version": 2,
-  "updated_at": "2026-07-28T13:44:44+00:00",
+  "version": 3,
+  "updated_at": "2026-08-09T08:37:11+00:00",
   "files": [
     {
       "id": "support-events",
       "filename": "support-events.json",
       "zip_filename": "support-events.json.zip",
-      "sha256_zip": "d52fffdb78947e1f2235f03e066c14750c00c49038d2c791877c84022ef7d613",
-      "sha256_json": "3884fc6952a19ac429f1224a9fb8bd3c744386cdbfea36f85c4fdfa406d201fd",
-      "version": 2,
-      "updated_at": "2026-07-28T13:44:44+00:00"
+      "sha256_zip": "ab53fb5a7b579aab0464fcc92accb946190a79f633f80832ec49701c58632966",
+      "sha256_json": "ff1ae62f9e387dbb387eff13524ffba4e95344a306263ecbe6bcfefafdbcea6e",
+      "version": 3,
+      "updated_at": "2026-08-09T08:37:11+00:00"
     },
     {
       "id": "character-events",
       "filename": "character-events.json",
       "zip_filename": "character-events.json.zip",
-      "sha256_zip": "4ac26f14bfc155aaf1c2af0791ba0b0aa6217d88ed41277f42df1d8dc64de294",
-      "sha256_json": "0cc43d37c56b5a4c9c039a84a672c9ed4b24f84d994d036e6bba801805511fc9",
-      "version": 2,
-      "updated_at": "2026-07-28T13:44:44+00:00"
+      "sha256_zip": "cd4411b0fc0e59ba86825f36b8f27b9f0eb8294e341800f9a1a269851eb17911",
+      "sha256_json": "4af7b16d80baf08e78c82171c9a1f5463cdc93878fc00658090751aef87f5e4e",
+      "version": 3,
+      "updated_at": "2026-08-09T08:37:11+00:00"
     }
   ]
 }
